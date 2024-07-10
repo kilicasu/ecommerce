@@ -20,7 +20,6 @@ class _LoginPageState extends State<LoginPage> {
                   image: DecorationImage(
                       image: AssetImage("lib/assets/images/header.png"))),
             ),
-            Text("BAVARIA"),
           ],
         ),
       ),
